@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+asyncio
+vk-api
+requests
+bs4
